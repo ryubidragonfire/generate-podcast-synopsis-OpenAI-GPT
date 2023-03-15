@@ -19,6 +19,7 @@ This example uses the [transcription](https://www.ft.com/content/935ee7eb-e11d-4
 Related repos from the author:
 - https://github.com/ryubidragonfire/document-analysis-using-gpt-3
 - https://github.com/ryubidragonfire/code-explaination-openai
+- https://github.com/ryubidragonfire/personalised-movie-reviews-gpt-3 
 
 # References
 - OpenAI repo: https://github.com/openai/openai-cookbook/blob/main/examples/Entity_extraction_for_long_documents.ipynb
