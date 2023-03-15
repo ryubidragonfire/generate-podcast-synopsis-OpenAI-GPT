@@ -9,6 +9,7 @@ This repo illustrates how to use OpenAI GPT to
 This example uses the [transcription](https://www.ft.com/content/935ee7eb-e11d-4458-94f6-25e1d0ccd9a2) of [podcast : Why SVB’s collapse is not a 2008 repeat](https://www.ft.com/content/c6fb49cb-20fc-4b8d-b693-9eff09f41580) avaiable from [Financial Times](ft.com) to illustrate how to make use of OpenAI GPT for the use case described above. 
 
 # Notebooks
+- [podcast-to-synopsis-taglines-keywords.ipynb](./notebooks/podcast-to-synopsis-taglines-keywords.ipynb) This notebook explores how to split a long podcast transcript into chuncks, generate synopsis, taglines, and search engine optimised (SEO) keywords. 
 
 # Future Work
 - Transcribe from audio to text.
