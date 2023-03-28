@@ -13,6 +13,9 @@ This example uses the [transcription](https://www.ft.com/content/935ee7eb-e11d-4
 
 # Future Work
 - Transcribe from audio to text.
+   - references: 
+      - Speaker diarisation : https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/samples/python/console/transcription_sample.py#L41
+      - Supported languages : https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/language-support?tabs=stt#supported-languages
 - Cater for large data corpus. 
 
 # Related Repos
